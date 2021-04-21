@@ -1,6 +1,5 @@
 # Update-Portfolio
 
-## About Me:
 ### Changelog index.html:
 
 
