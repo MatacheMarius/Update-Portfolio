@@ -6,19 +6,19 @@
 
 
 
-![Home test <768px](./Assets./1.png)
+![Home test <768px](./assets/1.png)
 
 
 
 ### About:
-![Home test <768px](./Assets/2.png)
+![Home test <768px](./assets/2.png)
 
 
 ### Portfolio:
-![Home test <768px](./Assets/4.png)
+![Home test <768px](./assets/4.png)
 
 ### Contact:
-![Home test <768px](./Assets/3.png)
+![Home test <768px](./assets/3.png)
 
 
 ---
