@@ -1,0 +1,65 @@
+/* add space between header and the body */
+
+nav {
+    margin-bottom: 50px;
+    background: #000000d0;
+    color: white;
+}
+
+
+
+body {
+  
+    background-image: url("https://www.themeparkprofessor.com/wp-content/uploads/2020/04/star-wars-backgrounds-36-1.jpg");
+    background-size: cover;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    color: white;
+    border-bottom: solid rgb(0, 0, 0) 1px;
+    margin-bottom: 25px;
+}
+
+
+main {
+    margin-bottom: 80px;
+    padding: 20px;
+}
+
+.background {
+    background: #000000d0;
+    color: white;
+    padding: 20px;
+}
+
+.portfolio .card-body {
+    padding: 10px;
+}
+
+
+
+.portrait {
+    max-width: 50%;
+    max-height: auto;
+}
+
+footer {
+    background: #000000d0;
+    color: white;
+    font-size: smaller;
+}
+
+.card {
+    background: #000000d0;
+}
+
+.card-body {
+    background: #000000d0;
+}
+
+
+
+
+
