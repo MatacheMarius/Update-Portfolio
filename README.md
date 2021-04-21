@@ -1,16 +1,12 @@
 # Update-Portfolio
 
-
-
-
-___
 ## About Me:
 ### Changelog index.html:
 
 
 
 
-![Home test <768px](./Assets/1.png)
+![Home test <768px](./Assets./1.png)
 
 
 
